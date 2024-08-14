@@ -1,26 +1,26 @@
 # Black Friday Sales Analysis
 
-### Project Overview
+## Project Overview
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company in the black Friday sales.By analyzing various aspects of the sales data, we seek to identify trends, make data-driven decisions, and gain a deeper understanding of the performance
 
 
-### Data Sources
+## Data Sources
 
 The primary dataset used for analysis is the [Black Fridaya](https://drive.google.com/file/d/1HkhZ6WKnhsaW0T-316FipXzgwjzE-KLi/view?usp=drive_link)
 
 
-### Tools
+## Tools
 
 - Power BI - Data Visualization
 
 
-### Data Cleaning / Preparation
+## Data Cleaning / Preparation
 
 1. Data Loading
 2. Handling Missing Values
 
-### Exploratory Data analysis
+## Exploratory Data analysis
 EDA involved exploring the sales data to answer key Questions.
 
 - What is the overall sales done on Black Friday?
@@ -32,7 +32,8 @@ EDA involved exploring the sales data to answer key Questions.
 - Which Occupation is more in Sales?
 - Which Product Category was more in demand in the Black Friday Sales?
 
-### Challenges and Learnings
+
+## Challenges and Learnings
 
 Data Analysis: Extracting insights from data hones your analytical skills and gives you practical experience in drawing conclusions.
 
@@ -43,7 +44,7 @@ Data Interpretation: Translating raw data into meaningful insights requires doma
 Problem Solving: Addressing challenges boosts problem-solving abilities as you find ways to overcome hurdles.
 
 
-### Conclusions 
+## Conclusions 
 
 - The total sales on Black Friday amounted to $5 billion.
 - The sales demographic consisted of 75% males and 25% females.
@@ -56,7 +57,7 @@ Problem Solving: Addressing challenges boosts problem-solving abilities as you f
 - Product Categories 5, 1, and 8 were the most popular during the Black Friday sales.
   
 
-### Insights
+## Insights
 
 - Focus marketing efforts on the 26-35 age group, which has shown the highest purchasing power.
 - Developing targeted campaigns to engage more female customers
