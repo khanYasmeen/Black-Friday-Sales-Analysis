@@ -10,11 +10,6 @@ This data analysis project aims to provide insights into the sales performance o
 The primary dataset used for analysis is the [Black Friday Sales Dataset](https://drive.google.com/file/d/1HkhZ6WKnhsaW0T-316FipXzgwjzE-KLi/view?usp=drive_link)
 
 
-## Tools
-
-- Power BI - Data Visualization
-
-
 ## Data Cleaning / Preparation
 
 1. Data Loading
